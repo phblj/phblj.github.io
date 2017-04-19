@@ -50,6 +50,14 @@ global:
         one: "1 tag found"
         other: "{n} tags found"
 
+pages:
+    wedding: "Wedding"
+    venue: "Venue"
+    hotels: "Staying"
+    travel: "Transportation"
+    registry: "Registry"
+    activities: "What to do"
+
 pagination:
     page: "page %d"
     of: "of %d"

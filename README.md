@@ -6,3 +6,9 @@ Root is a `develop` branch with a .gitignored `public/` directory.
 `public/` is the same repo, but the `master` branch.
 
 The two branches should never meet.
+
+
+
+start server: 
+    `hexo server`
+

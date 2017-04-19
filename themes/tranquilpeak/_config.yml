@@ -31,32 +31,58 @@ image_dir: assets/images
 #                               # Go to http://fontawesome.io/icons/ to find class name of icon
 sidebar:
     menu:
-        home:
-            title: global.home
-            url: /
-            icon: home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: bookmark
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: tags
-        archives:
-            title: global.archives
-            url: /all-archives
-            icon: archive
-        search:
-            title: global.search
-            url: /#search
-            icon: search
-            # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
-        about:
-            title: global.about
-            url: /#about
-            icon: question
+        # home:
+        #     title: global.home
+        #     url: /
+        #     icon: heartbeat
+        # categories:
+        #     title: global.categories
+        #     url: /all-categories
+        #     icon: bookmark
+        # tags:
+        #     title: global.tags
+        #     url: /all-tags
+        #     icon: tags
+        # archives:
+        #     title: global.archives
+        #     url: /all-archives
+        #     icon: archive
+        # search:
+        #     title: global.search
+        #     url: /#search
+        #     icon: search
+        #     # `open-algolia-search` classes are used to open algolia search modal
+        #     class: open-algolia-search
+        # about:
+        #     title: global.about
+        #     url: /#about
+        #     icon: question
+
+        wedding: 
+            title: pages.wedding
+            url: /Wedding
+            icon: picture-o
+        hotels: 
+            title: pages.hotels
+            url: /Accommodations
+            icon: hotel
+        venue: 
+            title: pages.venue
+            url: /The-Condors-Nest
+            icon: map-signs
+        travel: 
+            title: pages.travel
+            url: /Travel
+            icon: plane
+        registry: 
+            title: pages.registry
+            url: /Registry
+            icon: gift
+        activities: 
+            title: pages.activities
+            url: /Activities
+            icon: futbol-o
+
     author_links:
         # github:
         #     title: global.github
@@ -112,7 +138,7 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
+    email: dreaandparker@gmail.com
     location:
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
@@ -199,15 +225,15 @@ fb_app_id:
 # If you wanna add a sharing option, read user documentation :
 # Tranquilpeak configuration > Theme configuration > sharing-options
 sharing_options:
-    facebook:
-        icon: "fa-facebook-official"
-        url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
-    twitter:
-        icon: "fa-twitter"
-        url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+    # facebook:
+    #     icon: "fa-facebook-official"
+    #     url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
+    # twitter:
+    #     icon: "fa-twitter"
+    #     url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
+    # google_plus:
+    #     icon: "fa-google-plus"
+    #     url: "https://plus.google.com/share?url={{post.permalink}}"
     # Asian social networks
     # weibo:
     #     title: "Weibo"
