@@ -53,7 +53,7 @@ global:
 pages:
     wedding: "Wedding"
     venue: "Venue"
-    hotels: "Staying"
+    hotels: "Lodging"
     travel: "Transportation"
     registry: "Registry"
     activities: "What to do"

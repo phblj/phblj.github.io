@@ -60,7 +60,7 @@ sidebar:
 
         wedding: 
             title: pages.wedding
-            url: /Wedding
+            url: /
             icon: picture-o
         hotels: 
             title: pages.hotels
