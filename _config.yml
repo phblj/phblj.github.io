@@ -71,3 +71,7 @@ deploy:
   type: git
   repo: git@github.com-personal:phblj/phblj.github.io.git
   branch: master
+
+alias:
+  rp: Rehearsal-Picnic
+  rp/: Rehearsal-Picnic
