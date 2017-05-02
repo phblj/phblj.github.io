@@ -52,7 +52,7 @@ Call Marriott Reservations at (800) 331-3131 or (858) 673-1900 on or before **Ju
 
 Prices are good July 25th to August 2nd
 
-Call (858) 487-0900 and ask for the "Koploy Jones Wedding Block Rate" 
+You can book using [a link they provided](https://www.staybridge.com/redirect?path=hd&brandCode=sb&localeCode=en&regionCode=1&hotelCode=Sandg&_PMID=99801505&GPC=KJW&viewfullsite=true) or call 858-487-0900 and provide their reservation department with the group code “KJW”.
 
 ## Airbnb ##
 Additionally, there are a number of great houses near the wedding on <a href="https://www.airbnb.com/s/Koploy-Jones-Awesomeness/homes?adults=2&allow_override%5B%5D=&checkin=2017-07-28&checkout=2017-07-30&guests=2&ne_lat=33.493034&ne_lng=-116.941681&search_by_map=true&sw_lat=33.269702&sw_lng=-117.219079&zoom=12&s_tag=oG3SMDHn">Airbnb</a>.  Anywhere a reasonable distance from the venue (or along I-15 from San Deigo) is a good bet.
