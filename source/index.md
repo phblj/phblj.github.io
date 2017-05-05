@@ -1,6 +1,7 @@
 ---
 title: Jones-Koploy Wedding
 date: 2017-04-19 10:03:07
+coverImage: cover.jpg
 ---
 
 Hooray!  Wedding time!
