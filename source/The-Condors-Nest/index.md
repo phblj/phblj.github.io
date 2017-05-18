@@ -5,8 +5,17 @@ date: 2017-04-19 10:03:16
 
 We're getting married at a property about an hour north of San Diego called The Condor's Nest.
 
-Your children are definitely invited to the wedding and reception.  
+## Can I bring...
 
-Every invitation comes with an implicit +1.
+#### My kids?
 
-The wedding will be outdoors.  We'll have some shade and refreshment available.
+Definitely!  We'll do our best to keep them occupied during the reception if they're school-aged.  Your children are definitely invited to the wedding and reception.  
+
+#### A date?
+
+Absolutely!  If we failed to make it clear, every invitation comes with an implicit +1.  If you want to bring more than just a +1, let us know-- we may have a bit of extra flexibility.
+
+
+## What's the venue like?
+
+The wedding will be outdoors.  It's at 3pm, and it's supposed to be warm (upper 70s/low 80s) that time of year.  We'll have some shade and refreshment available.
