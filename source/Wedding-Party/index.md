@@ -33,6 +33,8 @@ There's no Best Man, but if anyone wants to take Reception Toast duties you're w
 
 For bachelor party planning, Matt and Luke are taking the reins there.  There's a good chance my scheudule will mean we skip this part, but I'm hopeful we'll find a weekend.
 
+Friday (the 28th) we'll be doing something in the morning.  Not sure what yet.
+
 #### Women
 
 Similar to the groomsmen above. Not all of you need to stand up front for the ceremony, but you do need to pose for some gorgeous pictures and hopefully walk down the aisle with the rest of the gang.
