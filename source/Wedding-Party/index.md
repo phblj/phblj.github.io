@@ -11,13 +11,11 @@ One hope is that you don't have to go out and buy something for the wedding you'
 
 #### Men
 
-Got a light grey suit?  Awesome, wear that with a white shirt and brown shoes.  Only have funky color/black shoes?  Wear those.
+UPDATE:  For the sake of the pictures, we're asking all the men to wear a light grey suit with brown shoes.  It's going to be warm, so I'd suggest against a vest or top hat, but feel free to wear it how you're comfortable.
 
-It's an outdoor wedding, and it should be warm the day of.  If you've got a choice, go with the lighter fabric.
+No grey suit?  We're going to ask you to rent.  I think Luke's doing that-- you can ask him for details of where he's going or just forge your own way.  We're not going for a consistent style across the board, just similar colors.  So feel free to pick whatever suits (hah!) you.
 
-Have a dark grey/charcoal/black suit instead?  Wear that.  Blue suit?  That's cool too.  No suit?  Going to ask you to rent, then.  I think Luke's doing that-- you can ask him for details of where he's going or just forge your own way.
-
-I'm hoping to provide some matching accessories-- boutonnieres, cuff links, pocket squares, ties, possibly other things.  So far I just have the links and we plan to do flowers.  You definitely don't need to do everything-- whatever your suit accommodates is fine.  
+I'm hoping to provide some matching accessories-- boutonnieres, cuff links, pocket squares, ties, possibly other things like socks.  You definitely don't need to do everything-- whatever your suit accommodates is fine.  I've sent an email out to ask which pieces you want-- be sure to respond or I'll be hounding you later.
 
 #### Women
 

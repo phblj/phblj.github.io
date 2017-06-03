@@ -9,7 +9,7 @@ We're getting married at a property about an hour north of San Diego called The 
 
 #### My kids?
 
-Definitely!  We'll do our best to keep them occupied during the reception if they're school-aged.  Your children are definitely invited to the wedding and reception.  
+Definitely!  We'll do our best to keep them occupied during the reception if they're school-aged.  Your whole family's included on the invitations.  
 
 #### A date?
 
@@ -18,4 +18,4 @@ Absolutely!  If we failed to make it clear, every invitation comes with an impli
 
 ## What's the venue like?
 
-The wedding will be outdoors.  It's at 3pm, and it's supposed to be warm (upper 70s/low 80s) that time of year.  We'll have some shade and refreshment available.
+The wedding will be outdoors.  It's at 3pm, and it's supposed to be warm (upper 70s/low 80s) that time of year.  The ceremony shouldn't be too long, and we'll have some shade and refreshment available afterwards.
